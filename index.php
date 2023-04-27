@@ -1,3 +1,4 @@
 <?php
-
-//Silence is golden
+/**
+ * This is the main template file
+ */
